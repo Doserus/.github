@@ -1,5 +1,5 @@
 <div align="center">
-    <img href="https://doserus.com" width="150" src="https://i.imgur.com/ALeEA6y.png" alt="logo" />
+    <img href="https://doserus.com" width="350" src="https://i.imgur.com/ALeEA6y.png" alt="logo" />
 </div>
 
 # Doserus
