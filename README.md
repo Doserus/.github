@@ -2,6 +2,6 @@
 
 Default Community Health Files for Doserus organization.
 
-**License:**
+## License
 
 This repository is licensed under the MIT specification.
